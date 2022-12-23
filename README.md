@@ -36,7 +36,17 @@ You can run it in older Windows versions as long as you have .NET Framework 4.8 
 
 ---
 
+### 📋 Any other notes?
+
+You will find executable file inside zip. You will have to extract it and then run it as administrator. Not running as administrator will not infect your PC at all.
+
+**In case someone ran virus in your main machine:**
+
+- You will have to reinstall your Windows if your PC restarted.
+
+---
+
 <center>
-    <i>Thank you for testing this Virus in a VM.</i>
+Thank you for testing this Virus in a VM.
 </center>
 
