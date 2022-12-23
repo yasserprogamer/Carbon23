@@ -36,3 +36,7 @@ You can run it in older Windows versions as long as you have .NET Framework 4.8 
 
 ---
 
+<center>
+    <i>Thank you for testing this Virus in a VM.</i>
+</center>
+
