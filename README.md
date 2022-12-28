@@ -19,6 +19,7 @@ This is my first computer malware made by me with C#. I hope you like it and ple
 - It will directly overwrite the MBR (Master Boot Record) to destroy your Operating System.
 - It will restart your computer after 2 minutes.
 - It will spam opening rickroll links in your browser.
+- It will spam opening random programs in your computer.
 
 ---
 
@@ -46,7 +47,7 @@ You will find executable file inside zip. You will have to extract it and then r
 
 ---
 
-<center>
-Thank you for testing this Virus in a VM.
-</center>
+<div align="center">
+    Thank you for testing this Virus in a VM. 
+</div>
 
