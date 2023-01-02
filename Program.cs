@@ -86,7 +86,7 @@
                         {
                             try
                             {
-                                Process.Start(new ProcessStartInfo{FileName = programs[new Random().Next(0, programs.Length-1)], UseShellExecute = true} );
+                                Process.Start(new ProcessStartInfo{FileName = programs[new Random().Next(0, programs.Length)], UseShellExecute = true} );
                             }
                             catch (IOException e)
                             {
